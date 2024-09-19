@@ -1,5 +1,5 @@
 # Define the attribute mappings for flexibility
-$UserPrincipalNameAttr = "UserPrincipalName"
+$UserPrincipalNameAttr = "WorkEmail"
 $JobTitleAttr = "JobTitle"
 $DepartmentAttr = "Department"
 $DisplayNameAttr = "DisplayName"
